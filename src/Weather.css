@@ -30,6 +30,10 @@ img {
   width: 40px;
 }
 
+footer {
+  font-size: 14px;
+}
+
 .container {
   border: 1px solid grey;
   border-radius: 10px;
