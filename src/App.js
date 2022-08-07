@@ -10,6 +10,13 @@ function App() {
         <h1>Ana's Weather App</h1>
       </header>
       <Weather />
+      <footer>
+        <p>
+          <a href="https://github.com/staikova-engineer/w4-homework">Open</a>
+          -sourced code made by{" "}
+          <a href="https://www.linkedin.com/in/anna-staikova-engineer/">Ana</a>
+        </p>
+      </footer>
     </div>
   );
 }
