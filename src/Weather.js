@@ -24,7 +24,7 @@ export default function Weather() {
           <img
             className="weather-img float-left"
             src="https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png"
-            alt="google weather image"
+            alt="google weather"
           />
           <span className="temp">20</span>
           <span className="degrees">ºC</span>
@@ -41,7 +41,7 @@ export default function Weather() {
           <div>Mon</div>
           <img
             src="https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png"
-            alt="the same image"
+            alt="the same"
           />
           <div>20º</div>
         </div>
@@ -49,7 +49,7 @@ export default function Weather() {
           <div>Tue</div>
           <img
             src="https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png"
-            alt="the same image"
+            alt="the same"
           />
           <div>20º</div>
         </div>
@@ -57,7 +57,7 @@ export default function Weather() {
           <div>Wed</div>
           <img
             src="https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png"
-            alt="the same image"
+            alt="the same"
           />
           <div>20º</div>
         </div>
@@ -65,7 +65,7 @@ export default function Weather() {
           <div>Thu</div>
           <img
             src="https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png"
-            alt="the same image"
+            alt="the same"
           />
           <div>20º</div>
         </div>
@@ -73,7 +73,7 @@ export default function Weather() {
           <div>Fri</div>
           <img
             src="https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png"
-            alt="the same image"
+            alt="the same"
           />
           <div>20º</div>
         </div>
@@ -81,7 +81,7 @@ export default function Weather() {
           <div>Sat</div>
           <img
             src="https://ssl.gstatic.com/onebox/weather/64/partly_cloudy.png"
-            alt="the same image"
+            alt="the same"
           />
           <div>20º</div>
         </div>
